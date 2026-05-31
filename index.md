@@ -4,7 +4,7 @@ Welcome to our hearing health resource center.
 
 ## Articles
 
-* [Audifort Review](README.md)
+* [Audifort Review](audifort-review.md)
 * [Hearing Loss After 50](hearing-loss-after-50.md)
 * [Tinnitus Guide](tinnitus-guide.md)
 
